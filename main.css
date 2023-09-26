@@ -1,0 +1,15 @@
+/*stylesheet*/
+
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+:root {
+    --theme-color-white-primary: white;
+    --theme-color-black-secondary: black;
+}
+body {
+    background-color: rgb(37, 41, 46);
+    color: var(--theme-color-white-primary);
+}
