@@ -1,1 +1,2 @@
-a website loading animation *not related to LUNA* of [lunafrica.com]
+[LUNA]:https://www.lunafrica.com
+a website loading animation `not related to [LUNA]`
